@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skip Live Music</string>
+    <string name="begin_skipping_tracks">Skip Live Tracks</string>
+    <string name="cancel_skipping_tracks">Stop Skipping Live Tracks</string>
+</resources>
